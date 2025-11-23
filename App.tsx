@@ -35,14 +35,14 @@ const App: React.FC = () => {
         <section className="container mx-auto px-6 pt-16 pb-24 md:pt-28 md:pb-32 text-center">
           <div className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-white/5 border border-white/10 mb-10 animate-float hover:bg-white/10 transition-colors cursor-default backdrop-blur-md">
             <SparklesIcon className="w-4 h-4 text-niri-accent" />
-            <span className="text-sm font-medium text-slate-200 tracking-wide">We are building something magical</span>
+            <span className="text-sm font-medium text-slate-200 tracking-wide"Get in!....We are building something magical!</span>
           </div>
 
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-serif font-bold mb-8 bg-clip-text text-transparent bg-gradient-to-b from-white via-slate-100 to-slate-400 leading-[1.1] max-w-5xl mx-auto drop-shadow-2xl">
-            The Experience <br/>
+            The Whole Experience <br/>
             <span className="text-white relative inline-block">
               <span className="absolute -inset-2 bg-gradient-to-r from-niri-primary to-niri-accent opacity-20 blur-2xl rounded-full"></span>
-              <span className="relative">Assistant</span>
+              <span className="relative">Need It, Rent It!</span>
             </span>
           </h1>
 
